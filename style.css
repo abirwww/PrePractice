@@ -1,0 +1,43 @@
+
+.nav{
+    text-align: right;
+    margin-right: 100px;
+}
+a{
+    border: none;
+    text-decoration: none;
+font-weight: bold;
+}
+.wcdesign{
+    color: tomato;
+}
+.btn1{
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    height: 50px; 
+    width: 150px; 
+}
+
+.bg{
+    background-image: url(images/frame57.jpg);
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 2px;
+    bottom: 10px;  
+}
+
+.flexible{
+    display: flex;  
+}
+.content{
+    flex: 50%;  
+}
+.btndtext{
+    margin-left: 150px;
+    margin-top: 300px;
+    
+}
+img{
+    margin-top: 50px;
+}
